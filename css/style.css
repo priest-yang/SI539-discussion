@@ -1,0 +1,35 @@
+body{
+	margin:1%;
+	font-size:125%;
+}
+
+h1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2,h3{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(13, 80, 127);
+}
+
+p{
+    line-height: 1.2;
+    padding: 1%;
+}
+
+img{
+    border: 10px;
+    border-style: solid;
+    border-color: rgb(119, 23, 23);
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+ul{
+    display: inline;
+    margin-left: 50px;
+}
